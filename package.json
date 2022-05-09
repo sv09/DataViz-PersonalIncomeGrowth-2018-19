@@ -1,0 +1,15 @@
+{
+  "name": "bea",
+  "version": "1.0.0",
+  "description": "",
+  "main": "clean.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shreya Vinodh",
+  "license": "ISC",
+  "dependencies": {
+    "d3": "^6.5.0",
+    "topojson": "^3.0.2"
+  }
+}
